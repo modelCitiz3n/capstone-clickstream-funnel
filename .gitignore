@@ -1,3 +1,6 @@
+# Dependencies
+node_modules/
+
 # OS / editor junk
 .DS_Store
 Thumbs.db
@@ -8,25 +11,17 @@ Thumbs.db
 # Tableau
 *.hyper
 *.log
-# Keep packaged workbooks if you want them versioned:
-# (we will keep .twb/.twbx unless you decide otherwise)
 
-# Python / data artifacts (if they appear later)
+# Python artifacts
 __pycache__/
 *.pyc
 *.pkl
 
-# Large raw datasets (optional — recommended)
-# If you download Kaggle CSV locally, keep it out of git:
+# Data (do not commit raw datasets)
 data/
 *.csv
 *.parquet
 *.zip
 
-# Kaggle/raw/processed data (do not commit)
-data/
+# Tableau input extracts generated locally
 exports/tableau_inputs/
-
-# Exports (we WILL version dashboard exports, so do not ignore /exports)
-# Dependencies
-node_modules/
