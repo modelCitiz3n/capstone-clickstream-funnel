@@ -28,3 +28,5 @@ data/
 exports/tableau_inputs/
 
 # Exports (we WILL version dashboard exports, so do not ignore /exports)
+# Dependencies
+node_modules/
