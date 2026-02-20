@@ -1,0 +1,26 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Tableau
+*.hyper
+*.log
+# Keep packaged workbooks if you want them versioned:
+# (we will keep .twb/.twbx unless you decide otherwise)
+
+# Python / data artifacts (if they appear later)
+__pycache__/
+*.pyc
+*.pkl
+
+# Large raw datasets (optional — recommended)
+# If you download Kaggle CSV locally, keep it out of git:
+data/
+*.csv
+*.parquet
+*.zip
+
+# Exports (we WILL version dashboard exports, so do not ignore /exports)
