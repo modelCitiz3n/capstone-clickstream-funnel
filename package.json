@@ -1,0 +1,27 @@
+{
+  "name": "capstone-clickstream-funnel",
+  "version": "1.0.0",
+  "description": "**Owner:** Jordan   **Case Study Title:** Optimizing E-Commerce Conversion Through Clickstream Funnel Analysis   **Dataset:** Kaggle — “Ecommerce Behavior Data from Multi-Category Store”",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modelCitiz3n/capstone-clickstream-funnel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/modelCitiz3n/capstone-clickstream-funnel/issues"
+  },
+  "homepage": "https://github.com/modelCitiz3n/capstone-clickstream-funnel#readme",
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}
