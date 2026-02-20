@@ -23,4 +23,8 @@ data/
 *.parquet
 *.zip
 
+# Kaggle/raw/processed data (do not commit)
+data/
+exports/tableau_inputs/
+
 # Exports (we WILL version dashboard exports, so do not ignore /exports)

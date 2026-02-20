@@ -17,6 +17,7 @@
 | 2026-02-20 | Revenue defined as SUM(price) on purchase events | Directly supported by dataset | Revenue is event-derived; currency treated as “as provided” |
 | 2026-02-20 | AOV reported only as “Average Purchase Value (proxy)” | Order/session grouping may be ambiguous | Avoid overstating precision |
 | 2026-02-20 | Price banding limited to 3 bands (Low/Mid/High) for speed | Keep dashboards simple | Thresholds may adjust after distribution check, but remain 3 bands |
+| 2026-02-20 | Raw Kaggle CSV stored only in Codespaces; Tableau uses small aggregated CSV exports | Work laptop storage constraints | Tableau connects to `exports/tableau_inputs/*.csv`; raw data never downloaded locally |
 
 ---
 
