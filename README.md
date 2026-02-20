@@ -85,7 +85,7 @@ Supporting docs live in: **`/docs`**
 > If your filenames differ, update the 3 image links below.
 
 ### 1) Funnel Overview (View → Cart → Purchase)
-![Funnel Overview](exports/dashboard_1_funnel_overview.png)
+![Funnel Overview](exports/dashboard_png/dashboard_1_funnel_overview.png)
 
 **What this dashboard shows**
 - Total events by stage (views, carts, purchases)
@@ -100,7 +100,7 @@ Supporting docs live in: **`/docs`**
 ---
 
 ### 2) Category & Revenue Performance
-![Category & Revenue](exports/dashboard_2_category_revenue.png)
+![Category & Revenue](exports/dashboard_png/dashboard_2_category_revenue.png)
 
 **What this dashboard shows**
 - Category mix by engagement and purchases
@@ -115,7 +115,7 @@ Supporting docs live in: **`/docs`**
 ---
 
 ### 3) Timing Patterns (When users buy)
-![Timing Patterns](exports/dashboard_3_timing_patterns.png)
+![Timing Patterns](exports/dashboard_png/dashboard_3_timing_patterns.png)
 
 **What this dashboard shows**
 - Purchases by time of day / day of week (or comparable time buckets)
